@@ -53,6 +53,7 @@ function registrarProveedor() {
   correoElectronico.value = ''
   categoria.value = ''
   ciudad.value = ''
+  mensaje.value = 'Proveedor registrado correctamente.'
 }
 </script>
 
