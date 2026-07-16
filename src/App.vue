@@ -9,19 +9,19 @@ const services = [
     title: 'Lavado básico',
     description: 'Limpieza exterior rápida y eficaz.',
     price: '$8.000',
-    icon: '🚗',
+    icon: 'V',
   },
   {
     title: 'Lavado premium',
     description: 'Lavado completo con abrillantado.',
     price: '$15.000',
-    icon: '✨',
+    icon: 'P',
   },
   {
     title: 'Lavado y encerado',
     description: 'Protección brillante para tu vehículo.',
     price: '$22.000',
-    icon: '🧽',
+    icon: 'L',
   },
 ]
 </script>
